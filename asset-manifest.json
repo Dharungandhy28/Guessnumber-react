@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Guessnumber-react/static/css/main.bb5c57c1.css",
+    "main.js": "/Guessnumber-react/static/js/main.14bd15d9.js",
+    "static/js/592.e724c14f.chunk.js": "/Guessnumber-react/static/js/592.e724c14f.chunk.js",
+    "static/media/logo.svg": "/Guessnumber-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Guessnumber-react/index.html",
+    "main.bb5c57c1.css.map": "/Guessnumber-react/static/css/main.bb5c57c1.css.map",
+    "main.14bd15d9.js.map": "/Guessnumber-react/static/js/main.14bd15d9.js.map",
+    "592.e724c14f.chunk.js.map": "/Guessnumber-react/static/js/592.e724c14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5c57c1.css",
+    "static/js/main.14bd15d9.js"
+  ]
+}
